@@ -1,0 +1,7 @@
+
+train: /Users/aryan/Desktop/dl_project/FIFA_player_detection/player_dataset/train/images
+val: /Users/aryan/Desktop/dl_project/FIFA_player_detection/player_dataset/valid/images
+test: /Users/aryan/Desktop/dl_project/FIFA_player_detection/player_dataset/test/images
+
+names: ['ball', 'goalkeeper', 'player', 'referee']
+nc: 4
