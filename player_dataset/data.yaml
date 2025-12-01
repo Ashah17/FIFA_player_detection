@@ -1,7 +1,8 @@
 
-train: /Users/aryan/Desktop/dl_project/FIFA_player_detection/player_dataset/train/images
-val: /Users/aryan/Desktop/dl_project/FIFA_player_detection/player_dataset/valid/images
-test: /Users/aryan/Desktop/dl_project/FIFA_player_detection/player_dataset/test/images
+    train: /Users/adity/Downloads/CS_4644/FIFA_player_detection/player_dataset/train/images
+    val: /Users/adity/Downloads/CS_4644/FIFA_player_detection/player_dataset/valid/images
+    test: /Users/adity/Downloads/CS_4644/FIFA_player_detection/player_dataset/test/images
 
-names: ['ball', 'goalkeeper', 'player', 'referee']
-nc: 4
+    names: ['ball', 'goalkeeper', 'player', 'referee']
+    nc: 4
+    
